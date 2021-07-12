@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
+
+body{
+    background: rgb(210, 105, 30);
+}
+
+.title{
+    color: yellowgreen;
+    background:gray;
+    
+}
+
+.box{
+width: 800px;
+margin: 30px auto;
+height: 800px;
+border: 2px solid red;
+border-radius: 15px;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+align-content: space-evenly;
+font-size: x-large;
+background:paleturquoise;
+
+}
+
+.item{
+    background: url('6015864807.jpg');
+    background-size: cover;
+    color: black;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

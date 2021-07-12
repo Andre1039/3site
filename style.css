@@ -1,0 +1,39 @@
+ *{
+     text-align: center;
+     margin: 10px 30px;
+ }
+ 
+ .article{
+     background: green;
+     color: white;
+     
+ }
+
+.text{
+    background: yellowgreen;
+    border: 3px solid orange;
+    border-radius: 20px;
+    margin: 10px 200px;
+    
+}
+
+.link{
+    color: red;
+    display: block;
+    margin: 10px 500px;
+}
+
+.link2{
+    display: block;
+    color: red;
+    text-align: left;
+}
+
+body{
+    background: aquamarine;
+}
+
+.img{
+    width: 500px;
+    height: 700px;
+}
